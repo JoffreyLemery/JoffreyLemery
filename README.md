@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1>Hi, I'm Joffrey! <br/><a href="https://github.com/JoffreyLemery">Product Owner/Manager</a>, <a href="https://www.linkedin.com/in/joffrey-lemery-b740a5112/">Machine Learning Engineer on training</a>
 
-<!--
-**JoffreyLemery/JoffreyLemery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🎓 Certification:</h2>
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoffreyLemery | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoffreyLemery | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://https://www.instagram.com/jojo_lmth_cpdv/
