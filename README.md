@@ -17,5 +17,3 @@ Product owner and manager for several years, I took a year off to learn more abo
 [<img align="left" alt="JoffreyLemery | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoffreyLemery | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://https://www.instagram.com/jojo_lmth_cpdv/
