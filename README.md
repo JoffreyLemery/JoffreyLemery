@@ -1,5 +1,4 @@
-<h1>Hi, I'm Joffrey! <br/><a href="https://www.linkedin.com/in/joffrey-lemery-b740a5112/">Machine Learning Engineer</a></h2>,
-<a href="https://www.linkedin.com/in/joffrey-lemery-b740a5112/">Product Owner/Manager</a>
+<h1>Hi, I'm Joffrey! <br/><a href="https://www.linkedin.com/in/joffrey-lemery-b740a5112/">Machine Learning Engineer</a></h2>, <a href="https://www.linkedin.com/in/joffrey-lemery-b740a5112/">Product Owner/Manager</a>
   
 Product owner and manager for several years, I took a year off to learn more about Machine Learning Engineering, DataScience, deployment management, infrastructurse and cloud computing. 
 
