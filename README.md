@@ -15,7 +15,7 @@ Product owner and manager for several years, I took a year off to learn more abo
 
 <h2> 🤳 Connect with me:</h2>
 
-<img align="left" alt="JoffreyLemery | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/joffrey-lemery-b740a5112/
-+33767631216
-joffre.lemery.jl@gmail.com
+- <img align="left" alt="JoffreyLemery | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/joffrey-lemery-b740a5112/
+- +33767631216
+- joffre.lemery.jl@gmail.com
 
