@@ -9,7 +9,7 @@ Product owner and manager for several years, I took a year off to learn more abo
 
 - Machine Learning Engineer (MLops + DataScience + Data Product Management)
 - Msc. Science Arts and Metiers ParisTech Group
-- Msc. Research Polytechnique Montreal - Project Management Civil Engineering
+- Msc. Research Polytechnique Montreal - Project Management Data & Civil Engineering
 - Professional Scrum Product Owner
 
 
