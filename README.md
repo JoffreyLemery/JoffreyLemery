@@ -2,8 +2,10 @@
   
 Product owner and manager for several years, I took a year off to learn more about Machine Learning Engineering, DataScience, deployment management, infrastructurse and cloud computing. 
 
-<h2>👨‍💻 Software Development Projects:</h2>
-
+<h2>👨‍💻 Main Development Projects:</h2>
+- Weather_Medoc_Vineyards
+- Mushroom_Identifier
+- ML_from_scratch
 
 <h2>🎓 Certification:</h2><br>
 
